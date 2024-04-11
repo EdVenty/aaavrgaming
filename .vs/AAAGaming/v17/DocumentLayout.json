@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egorc\\AAAGaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|c:\\users\\egorc\\aaagaming\\assets\\c# scripts\\magnit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\magnit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\kidreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\kidreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\containerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\containerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\tabletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\tabletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\platformscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\platformscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\strelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\strelar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\scripts\\joystickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joystickscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\kruchenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\kruchenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\jointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\jointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\overcooked\\cyb5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\overcooked\\cyb5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\samples\\scripts\\controllerhintsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\samples\\scripts\\controllerhintsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\input\\steamvr_action_vibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\input\\steamvr_action_vibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\hoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\hoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\rope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\rope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\overcooked\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\overcooked\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egorc\\AAAGaming\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\overcooked\\cyb6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\overcooked\\cyb6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\overcooked\\cube1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\overcooked\\cube1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\overcooked\\startplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\overcooked\\startplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\c# scripts\\strela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B956A-5167-FDE7-C9DA-DFA3701220D1}|Assembly-CSharp.csproj|solutionrelative:assets\\c# scripts\\strela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\samples\\scripts\\buttoneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\samples\\scripts\\buttoneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F638AE7-0A12-F7A6-1576-0DAFB7037469}|SteamVR_Actions.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr_input\\steamvr_actions.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9F638AE7-0A12-F7A6-1576-0DAFB7037469}|SteamVR_Actions.csproj|solutionrelative:assets\\steamvr_input\\steamvr_actions.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\samples\\joejeff\\joejeffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\samples\\joejeff\\joejeffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\velocityestimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\velocityestimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\samples\\squishy\\squishytoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\samples\\squishy\\squishytoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\samples\\scripts\\interactableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\samples\\scripts\\interactableexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\lineardrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\lineardrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\core\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|C:\\Users\\egorc\\AAAGaming\\assets\\steamvr\\interactionsystem\\snapturn\\snapturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C20B1EA-0D41-A1BB-E3D4-0D8317651E76}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\snapturn\\snapturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Return.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\Return.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Return.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\Return.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:56:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StartPlay.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\StartPlay.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\OverCooked\\StartPlay.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\StartPlay.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\OverCooked\\StartPlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:04:34.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SteamVR_Action_Vibration.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\Input\\SteamVR_Action_Vibration.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Input\\SteamVR_Action_Vibration.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\Input\\SteamVR_Action_Vibration.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Input\\SteamVR_Action_Vibration.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAYwPEAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:54:54.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HoverButton.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HoverButton.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HoverButton.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HoverButton.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HoverButton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:43:46.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SteamVR_Actions.asmdef",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR_Input\\SteamVR_Actions.asmdef",
+              "RelativeDocumentMoniker": "Assets\\SteamVR_Input\\SteamVR_Actions.asmdef",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR_Input\\SteamVR_Actions.asmdef",
+              "RelativeToolTip": "Assets\\SteamVR_Input\\SteamVR_Actions.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-04-01T04:43:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SquishyToy.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Squishy\\SquishyToy.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Samples\\Squishy\\SquishyToy.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Squishy\\SquishyToy.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Samples\\Squishy\\SquishyToy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:35:37.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VelocityEstimator.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\VelocityEstimator.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\VelocityEstimator.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\VelocityEstimator.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\VelocityEstimator.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:22:26.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JoeJeffController.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\JoeJeff\\JoeJeffController.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Samples\\JoeJeff\\JoeJeffController.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\JoeJeff\\JoeJeffController.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Samples\\JoeJeff\\JoeJeffController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:21:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TabletScript.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\TabletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\TabletScript.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\TabletScript.cs",
+              "RelativeToolTip": "Assets\\TabletScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:59:11.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ControllerHintsExample.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ControllerHintsExample.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ControllerHintsExample.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ControllerHintsExample.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ControllerHintsExample.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:44:41.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kRUCHENIE.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\kRUCHENIE.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\kRUCHENIE.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\kRUCHENIE.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\kRUCHENIE.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:54:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JointController.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\JointController.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\JointController.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\JointController.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\JointController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:06:43.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magnit.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Magnit.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\Magnit.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Magnit.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\Magnit.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAtwJkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:20:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KidReturn.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\KidReturn.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\KidReturn.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\KidReturn.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\KidReturn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:11:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainerScript.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\ContainerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ContainerScript.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\ContainerScript.cs",
+              "RelativeToolTip": "Assets\\ContainerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:44:42.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlatformScript.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\PlatformScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlatformScript.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\PlatformScript.cs",
+              "RelativeToolTip": "Assets\\PlatformScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:18:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strelar.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Strelar.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\Strelar.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Strelar.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\Strelar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:01:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JoystickScript.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\Scripts\\JoystickScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JoystickScript.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\Scripts\\JoystickScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JoystickScript.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:29:58.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangeColor.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\ChangeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\OverCooked\\ChangeColor.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\ChangeColor.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\OverCooked\\ChangeColor.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowEkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:54:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GraphicRaycaster.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\UI\\Core\\GraphicRaycaster.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:03:30.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rope.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Rope.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\Rope.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Rope.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\Rope.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:28:28.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cyb5.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cyb5.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\OverCooked\\Cyb5.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cyb5.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\OverCooked\\Cyb5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:55:38.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\UIElement.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\UIElement.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\UIElement.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\UIElement.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:43:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Strela.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Strela.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\Strela.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\Strela.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\Strela.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:06:37.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cyb6.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cyb6.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\OverCooked\\Cyb6.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cyb6.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\OverCooked\\Cyb6.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:36:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cube1.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cube1.cs",
+              "RelativeDocumentMoniker": "Assets\\C# Scripts\\OverCooked\\Cube1.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\C# Scripts\\OverCooked\\Cube1.cs",
+              "RelativeToolTip": "Assets\\C# Scripts\\OverCooked\\Cube1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:55:12.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ButtonEffect.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ButtonEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ButtonEffect.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ButtonEffect.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\ButtonEffect.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:43:31.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Hand.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Hand.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Hand.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Hand.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Hand.cs",
+              "ViewState": "AQIAADgEAAAAAAAAAAAewFIEAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:45:42.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Throwable.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:15:12.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SnapTurn.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\SnapTurn\\SnapTurn.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\SnapTurn\\SnapTurn.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\SnapTurn\\SnapTurn.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\SnapTurn\\SnapTurn.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwD0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T02:12:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LinearDrive.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\LinearDrive.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\LinearDrive.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\LinearDrive.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\LinearDrive.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:48:34.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InteractableExample.cs",
+              "DocumentMoniker": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\InteractableExample.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\InteractableExample.cs",
+              "ToolTip": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\InteractableExample.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Samples\\Scripts\\InteractableExample.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwHUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:25:36.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "970ac47786c4",
+        "mtime": 1711780478886,
+        "size": 19523367,
+        "localPath": "C:\\Users\\egorc\\AAAGaming\\Assets\\SteamVR\\OpenVRUnityXRPackage\\Editor\\com.valvesoftware.unity.openvr-1.2.1.tgz"
+      }
+    }
+  }
+}
